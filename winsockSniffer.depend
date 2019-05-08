@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1557351736 source:d:\users\derex\documents\codeblocks\winsocksniffer\main.cpp
+	<windows.h>
+	<winsock2.h>
+	<ws2tcpip.h>
+	<iphlpapi.h>
+	<stdio.h>
+	<iostream>
+	<cstdlib>
+
